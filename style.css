@@ -1,0 +1,26 @@
+body {
+  font-family: system-ui;
+  background: #f06d06;
+  color: white;
+  text-align: center;
+}
+.box {
+  background: #000;
+  width: 50%;
+  margin-left: 25%;
+}
+.switch {
+  -moz-transition: all 0.4s ease;
+  transition: all 0.4s ease;
+}
+.botFace {
+  padding-top: 1.5rem;
+}
+.botFaceIn {
+  background: #ffff;
+  border-radius: 40px;
+  width: 25%;
+  margin-left: 37.5%;
+  -moz-transition: all 0.4s ease;
+  transition: all 0.4s ease;
+}
